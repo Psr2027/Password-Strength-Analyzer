@@ -1,0 +1,4 @@
+# Core CLI and Cryptographic Engine use 100% Python Standard Library (hashlib, hmac, secrets, sqlite3, math)
+# Optional Web UI & Testing dependencies:
+Flask>=3.0.0
+pytest>=8.0.0
